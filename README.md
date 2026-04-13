@@ -141,7 +141,7 @@ The Power BI dashboard includes:
 
 Dashboard screenshot:
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard Screenshot.png)
 
 ---
 
