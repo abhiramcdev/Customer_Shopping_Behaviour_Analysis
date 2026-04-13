@@ -139,9 +139,6 @@ The Power BI dashboard includes:
 - Customer segment slicers
 - Product performance insights
 
-Dashboard screenshot:
-
-![Dashboard Screenshot](Dashboard Screenshot.png)
 
 ---
 
